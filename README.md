@@ -62,9 +62,9 @@
 </div>
 
 <div align=center>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/f8d1d4e6-6224-4d0e-a5c0-e43773a8ac8a.png"/>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/81bbe5d0-2094-4272-afac-6f3e00b55f0b.png"/>
-  <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/f7046062-0578-42a9-b113-9d331a4b4720.png"/>
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/24f30a9f-521f-48ec-a36c-e6c7902c24d1.png"/>
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/caef5cbd-d210-4c1a-b39e-0ced78db4257.png"/>  
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/1037e68e-1df9-487a-ab9e-173215b97fe5.png"/>
 </div>
 
 <div align=center>
