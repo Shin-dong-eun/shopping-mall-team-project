@@ -68,22 +68,15 @@
 </div>
 
 <div align=center>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/6bee0e8f-b6d5-4bab-ac3d-7970767e9f23.png"/>
-  <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/28c83290-72ef-432b-a139-6ba8a950f210.png"/>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/c4338b93-9cde-47e1-9cde-f0784b43a2ce.png"/>
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/44de54a9-fa83-42f0-8067-4ca37534408d.png"/>
+  <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/593cce56-5182-46a3-9897-aba0484aa059.png"/>
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/160e4661-8409-47a9-8520-741cce9f3277.png"/>
   
 </div>
 
 <div align=center>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/5e98ec97-179c-4102-a477-ebb84a6fb0eb.png"/>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381874/5d326085-ff62-44c7-8217-b48cbaf73676.png"/>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381874/7cde7fdc-2ae2-4606-9a35-7b7ff04093da.png"/>
-</div>
-
-<div align=center>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/586c2b69-7184-4188-96e1-2586c7376d52.png"/>
-  <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/262b6632-aa68-453c-b8c7-78194e39d7c8.png"/>
-  <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381874/0cf8145f-52e3-4204-8102-6ddbf38c6b57.png"/>
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/77f0c02f-9c86-4ae4-be08-664b4c29b9bb.png"/>
+    <img width="30%" src="https://github.com/Yujin051/shopping-mall-team-project/assets/142381874/77bb652d-cd81-42dd-bbfc-aa72fcfda1be.png"/>
 </div>
 
 
