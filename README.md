@@ -1,14 +1,9 @@
-# shopping-mall-team-project
-springboot shoppingmall project
+<div align=left><h1>쇼핑몰 팀프로젝트</h1></div>
 
-팀원 : 권혁인, 신동은, 김영남, 이현석
-
-<div align=left><h1>💻LMS 학적관리시스템💻</h1></div>
-
-스프링 부트 + JPA LMS 학적관리시스템
+스프링 부트 + JPA 게임 쇼핑몰
 
 <div align=left><h1>프로젝트 소개</h1></div>
-교육 및 학습환경을 관리하고 지원하는 LMS학적 관리 시스템 입니다.
+게임및 굿즈같은 상품을 판매하는 쇼핑몰입니다.
 
 <div align=left><h1>📚 STACKS</h1></div>
 
